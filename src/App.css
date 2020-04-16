@@ -36,7 +36,13 @@
 }
 
 .mixer-image {
-  width: 215px;
+  width: 170px;
+  height: 200px;
+  position: relative;
+}
+
+.turntable-image {
+  width: 235px;
   height: 200px;
   position: relative;
 }
@@ -45,7 +51,7 @@
   position: absolute;
   top: 12px;
   left: 10px;
-  width: 156px;
+  width: 173px;
   height: 176px;
 }
 
