@@ -1,8 +1,8 @@
 import React from 'react';
 //import { Link } from 'react-router-dom';
-import turntable from './assets/images/turntable.png';
-import mixer from './assets/images/mixer.png';
-import vinyl from './assets/images/vinyl-record.png';
+import turntable from './images/turntable.png';
+import mixer from './images/mixer.png';
+import vinyl from './images/vinyl-record.png';
 import './App.css';
 
 function App() {
